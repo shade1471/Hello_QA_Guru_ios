@@ -1,0 +1,8 @@
+Application, 0x10601a9e0, pid: 13654, label: 'Hello QA Guru' <App element pid: 13654>
+  Window (Main), 0x10600dd60, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 13654, elementOrHash.elementID: 4343274832.3>
+    Other, 0x10601ad70, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 13654, elementOrHash.elementID: 4370607904.4>
+      Other, 0x10601ae90, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 13654, elementOrHash.elementID: 4370746704.5>
+        Other, 0x10600d310, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 13654, elementOrHash.elementID: 4343286272.6>
+          Other, 0x1060197d0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 13654, elementOrHash.elementID: 105553169763136.7>
+            Image, 0x106017b90, {{190.3, 430.0}, {21.7, 21.7}}, identifier: 'globe', label: 'Globe' <AX element pid: 13654, elementOrHash.elementID: 105553169783040.8>
+            StaticText, 0x106017cb0, {{142.3, 453.7}, {117.3, 20.3}}, label: 'Hello, QA Guru!' <AX element pid: 13654, elementOrHash.elementID: 105553169764416.9>
